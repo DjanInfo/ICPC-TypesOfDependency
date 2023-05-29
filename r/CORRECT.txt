@@ -1,0 +1,7 @@
+caracteristic        correct	     wrong
+GI			21		9
+GW			24		6
+IAI			23		7
+IAW			24		6
+IEI			17		13
+IEW			23		7
